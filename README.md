@@ -1,24 +1,15 @@
-# Web Dev Starter Code
+# Module 2 - Letter Markup Lab
 
 ## Overview
 
-TODO: Write a project description
+This is a website that contains the marked up letter from a university using HTML and CSS code in order to fix the formatting of the letter. It is apart of the Module 2 Lab Activity.
+
+## How to run
+
+To review the website, simply clone the repository in your prefered IDE (recommended to use VSCode)
+After its cloned, open the project and start the Live Preview Server.
+This bring up the website for review. Enjoy. 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+-W3 Schools: Used as reminder for the HTML for list types, subscripts, superscripts, hyperlinks.
