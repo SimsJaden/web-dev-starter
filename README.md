@@ -6,10 +6,10 @@ This is a website that contains the marked up letter from a university using HTM
 
 ## How to run
 
-To review the website, simply clone the repository in your prefered IDE (recommended to use VSCode)
-After its cloned, open the project and start the Live Preview Server.
-This bring up the website for review. Enjoy. 
+- To review the website, simply clone the repository in your prefered IDE (recommended to use VSCode)
+- After its cloned, open the project and start the Live Preview Server.
+- This bring up the website for review. Enjoy. 
 
 ## Sources and Credits
 
--W3 Schools: Used as reminder for the HTML for list types, subscripts, superscripts, hyperlinks.
+- W3 Schools: Used as reminder for the HTML for list types, subscripts, superscripts, hyperlinks.
